@@ -1,0 +1,13 @@
+# ignore pgns and epds except dependency
+*.pgn
+*.epd
+!eco.pgn
+
+# ignore build files
+*.o
+
+# ignore personal pgn
+pgn
+
+# ignore compile
+pgn-extract
